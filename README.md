@@ -1,12 +1,12 @@
 # SegmentView
 视图切换
 
-# 一、效果图
+#### 一、效果图
  ![image](segmentView.gif)
  
  
  
-#二、代码
+#### 二、代码
 
     //2-1、创建
     self.segmentView = [[SegmentView alloc] initWithFrame:CGRectMake(0, 100, KCWidth, 40) titles:@[@"ceshi1",@"ceshi2",@"ceshi3"]];
